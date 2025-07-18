@@ -47,7 +47,7 @@ code --install-extension ./filemaker-syntax-0.1.0.vsix
 
 ---
 
-## 🧪 Language Support
+##  Language Support
 
 The extension targets the following file types:
 
@@ -88,7 +88,7 @@ Use `Developer: Inspect Editor Tokens and Scopes` to inspect live.
 
 ---
 
-## 🛠 Development
+##  Development
 
 To work on the extension:
 
@@ -118,7 +118,7 @@ Feel free to submit improvements to the scope coverage or styling.
 
 ---
 
-## 🔗 Links
+##  Links
 
 * [FileMaker Official Docs](https://help.claris.com/en/pro-help/)
 * [TextMate Grammar Reference](https://macromates.com/manual/en/language_grammars)
