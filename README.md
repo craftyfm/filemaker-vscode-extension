@@ -1,10 +1,5 @@
-Absolutely — here’s a complete and well-structured `README.md` for your **FileMaker Syntax Highlighter** VS Code extension. It includes installation, usage, features, development notes, and contribution info.
 
----
 
-##  `README.md`
-
-````markdown
 #  FileMaker Syntax Highlighting for VS Code
 
 A modern, TextMate-based syntax highlighter for **FileMaker custom functions** and expressions inside Visual Studio Code. Designed to highlight built-in functions, user-defined variables, `Let` blocks, and nested expressions like `Case()` and `If()` — just like Rust or other structured languages.
