@@ -2,8 +2,8 @@
   "name": "filemaker-syntax",
   "displayName": "FileMaker Custom Function Syntax",
   "description": "Syntax highlighting for FileMaker Custom Functions using a TextMate grammar.",
-  "version": "0.1.0",
-  "publisher": "Crafty",
+  "version": "0.1.1",
+  "publisher": "Craftyfm",
   "repository": {
   "type": "git",
   "url": "https://github.com/craftyfm/filemaker-vscode-extension.git"
