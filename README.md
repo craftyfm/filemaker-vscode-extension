@@ -6,7 +6,7 @@ A modern, TextMate-based syntax highlighter for **FileMaker custom functions** a
 
 ---
 
-## ✨ Features
+##  Features
 
  Highlights:
 - `Let ( [ x = 5 ; ... ] ; ... )` declarations  
