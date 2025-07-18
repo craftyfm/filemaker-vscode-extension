@@ -1,0 +1,84 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "variable.parameter.let.filemaker",
+        "settings": {
+          "foreground": "#4EC9B0",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "variable.other.filemaker",
+        "settings": {
+          "foreground": "#9CDCFE"
+        }
+      },
+      {
+        "scope": "variable.other.unscoped.filemaker",
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": "entity.name.function.filemaker",
+        "settings": {
+          "foreground": "#D16969",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "support.function.filemaker",
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": "keyword.control.filemaker",
+        "settings": {
+          "foreground": "#569CD6",
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "string.quoted.double.filemaker",
+        "settings": {
+          "foreground": "#CE9178"
+        }
+      },
+      {
+        "scope": "constant.numeric.filemaker",
+        "settings": {
+          "foreground": "#B5CEA8"
+        }
+      },
+      {
+        "scope": "keyword.operator.filemaker",
+        "settings": {
+          "foreground": "#D4D4D4"
+        }
+      },
+      {
+        "scope": "comment.block.filemaker",
+        "settings": {
+          "foreground": "#6A9955",
+          "fontStyle": "italic"
+        }
+      },
+      {
+  "scope": "variable.result.case.filemaker",
+  "settings": {
+    "foreground": "#FFA657",
+    "fontStyle": "italic bold"
+  }
+},
+      {
+        "scope": "comment.line.double-slash.filemaker",
+        "settings": {
+          "foreground": "#6A9955",
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}
