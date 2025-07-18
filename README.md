@@ -2,7 +2,7 @@
 
 #  FileMaker Syntax Highlighting for VS Code
 
-A modern, TextMate-based syntax highlighter for **FileMaker custom functions** and expressions inside Visual Studio Code. Designed to highlight built-in functions, user-defined variables, `Let` blocks, and nested expressions like `Case()` and `If()` — just like Rust or other structured languages.
+A syntax highlighter for **FileMaker custom functions** and expressions inside Visual Studio Code. Designed to highlight custom functions, user-defined variables, `Let` blocks, and nested expressions like `Case()` and `If()` 
 
 ---
 
