@@ -27,9 +27,11 @@ A modern, TextMate-based syntax highlighter for **FileMaker custom functions** a
 1. Download the latest `.vsix` release from the [Releases](https://github.com/yourusername/vscode-filemaker-syntax/releases) tab
 2. In VS Code, run:
 
-   ```bash
+```bash
    code --install-extension path/to/filemaker-syntax-0.1.0.vsix
 ````
+
+---
 
 3. Open any `.fm`, `.fmfunc`, or `.filemaker` file and select `FileMaker` as the language (bottom-right corner)
 
@@ -104,17 +106,23 @@ Open test files like `sample.fmfunc` to preview highlighting in real time.
 
 ---
 
+---
+TODO
+- Add custom highlight for Base Elements functions 
+- Add code formating
+- Add a standard doc block header
+
 ##  License
 
 MIT License
-Copyright © 2025 \[Your Name]
+Copyright © 2025 Stuart Russell
 
 ---
 
 ##  Contributing
 
 Pull requests are welcome! Please include test cases and follow the structure of the existing grammar.
-Feel free to submit improvements to the scope coverage or styling.
+Feel free to submit improvements to the scope coverage or styling. Start an issue or discussion.
 
 ---
 
