@@ -4,7 +4,9 @@
   "fileTypes": [
     "fmfunc",
     "filemaker",
-    "fm"
+    "fm",
+    "fmfn",
+    "calc"
   ],
   "patterns": [
     {

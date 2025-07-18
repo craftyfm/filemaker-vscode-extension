@@ -1,0 +1,29 @@
+README.dev.md
+README.marketplace.md
+
+# VS Code extension packaging
+*.vsix
+
+# VS Code local settings
+.vscode/*
+!.vscode/settings.json  # optionally include settings.json if useful
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Marketplace-only README
+README.marketplace.md
+
+# Dev workflow 
+README.dev.md
